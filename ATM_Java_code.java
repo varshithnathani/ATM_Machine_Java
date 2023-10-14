@@ -1,5 +1,5 @@
 import java.util.*;
-class ATMTrail
+class ATM_Java_code
 {
 	public static void main(String[] args) 
 	{
